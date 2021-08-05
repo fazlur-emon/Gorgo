@@ -1,0 +1,274 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Roboto', sans-serif;
+}
+header{
+     width: 90%;
+     text-align: center;
+     overflow: hidden;
+     margin-top: 40px;
+}
+.logo{
+     width: 30%;
+     float: left;
+     margin-left: 40px;
+
+}
+nav{
+     width: 30% ;
+     float: left;
+     margin-top: 10px;
+}    
+nav ul{
+    overflow: hidden;
+    list-style: none;
+    margin-left: -40px;
+    
+}
+nav ul li{
+    float: left;
+    margin-left: 40px;
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: rgb(95, 95, 95);
+    font-size: 15px;
+}
+.btn-1{
+     width: 20%;
+     float: right;
+}
+.btn-1 button{
+    padding: 10px;
+    background-color: rgb(232, 81, 81);
+    border-radius: 5px;
+    color: floralwhite;
+    border: white;
+
+}
+.banner-section{
+    overflow: hidden;
+    width: 90%;
+    margin-top: 150px;
+}
+.intro{
+    float: left;
+    margin-left: 190px;
+    width: 30%;
+    margin-top: 50px;
+}
+.intro h1{
+    text-align: left;
+    font-size: 50px;
+}
+.intro p{
+    text-align: left;
+    color: darkgray;
+    margin-top: 20px;
+}
+.banner{
+    float: right;
+    width: 30%;
+    margin-right: 100px;
+}
+.demo{
+    overflow: hidden;
+    margin-top: 250px;
+    width: 100%;
+}
+.demo h1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900;
+}
+.demo p{
+    text-align: center;
+    font-family: serif;
+    font-style: italic;
+    font-size: 20px;
+}
+.contents{
+    text-align: center;
+    margin-left: 30px;
+    margin-top: 30px;
+    overflow: hidden;
+}
+.contents p{
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 15px;
+}
+.content1{
+    float: left;
+    margin-left: 20px;
+}
+.content2{
+    float: left;
+    margin-left: 20px;
+}
+.content3{
+    float: left;
+    margin-left: 20px;
+}
+.content4{
+    float: left;
+    margin-left: 20px;
+}
+.features{
+    width: 100%;
+    margin-top: 400px;
+}
+.features h2{
+    text-align: center;
+}
+.features p{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.top-section{
+    overflow: hidden;
+    text-align: center;
+    margin-left: 300px;
+    
+}
+.feature1{
+    background: #F5F5F5;
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-left: 25px;
+    padding: 20px;
+      
+}
+.feature1 h4{
+
+}
+.feature1 p{
+
+}
+.feature2{
+    background: #F5F5F5;
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-left: 25px;
+    padding: 20px;
+
+
+
+}
+.feature2 h4{
+
+}
+.feature2 p{
+
+}
+.feature3{
+    background: #F5F5F5;
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-left: 25px;
+    padding: 20px;
+
+
+
+}
+.feature3 h4{
+
+}
+.feature3 p{
+
+}
+.bottom-section{
+    overflow: hidden;
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 300px;
+
+}
+.feature4{
+    background: #F5F5F5;
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-left: 25px;
+    padding: 20px;
+
+
+
+}
+.feature4 h4{
+
+}
+.feature4 p{
+
+}
+.feature5{
+    background: #F5F5F5;
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-left: 25px;
+    padding: 20px;
+
+
+
+}
+.feature5 h4{
+
+}
+.feature5 p{
+
+}
+.feature6{
+    background: #F5F5F5;
+    width: 250px;
+    height: 250px;
+    float: left;
+    margin-left: 25px;
+    padding: 20px;
+
+
+
+}
+.feature6 h4{
+
+}
+.feature6 p{
+
+}
+footer{
+   background: #292640;
+   padding: 250px;
+   width: auto;
+   text-align: center;
+   margin-top: 150px;
+}
+footer h1{
+    text-align: center;
+    font-size: 50px;
+    color: whitesmoke;
+   
+}
+.btn-2{
+    width: 20%;
+    margin-left: 430px;
+    margin-top: 30px;
+
+}
+.btn-2 button{
+    padding: 10px;
+    background-color: rgb(232, 81, 81);
+    border-radius: 5px;
+    color: floralwhite;
+    border: white;
+    text-align: center;
+}
+footer img{
+    text-align: center;
+    margin-top: 30px;
+    
+}
